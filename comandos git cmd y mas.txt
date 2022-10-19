@@ -1,0 +1,9 @@
+Primero hay que ubicarse en la carpeta de la carpeta de la nube c/repositorio etc  con cd y luegos ubicar las carpetas con dir
+git add .(el punto indica todo)
+git commit -m "data" (en data va el nombre del archivo
+git push (subir a la nube)
+
+.md mad down
+dir saber que contiene la carpeta 
+cd cmabiar de ubicacio o ir de carpeta en carpeta 
+javac compilar en java
